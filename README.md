@@ -40,7 +40,7 @@ ai_tutor/
 
 ```bash
 git clone https://github.com/IsmailMohamed010/ai_tutor.git
-cd ai_tutor
+cd AI_Tutor
 ```
 
 ### 2. Create and Activate Virtual Environment
