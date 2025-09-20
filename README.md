@@ -1,4 +1,4 @@
-# 📘 AI Tutor – MEAN Region Project Submission
+# 📘 AI Tutor
 
 An interactive **AI Tutor application** built with **Python, Gradio, and OpenAI/GitHub Models API**.
 The app allows users to ask any question and get explanations at different depth levels (from *like I’m 5 years old* to *PhD-level detail*).
