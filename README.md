@@ -39,7 +39,7 @@ ai_tutor/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ai_tutor.git
+git clone https://github.com/IsmailMohamed010/ai_tutor.git
 cd ai_tutor
 ```
 
@@ -123,5 +123,3 @@ Potential Improvements:
 * Add **unit tests** for modular components.
 
 ---
-
-👤 Developed as part of **Junior AI Developer evaluation – MEAN Region**
